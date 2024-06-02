@@ -44,6 +44,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
+    # Сторонние библиотеки
+    'social_django',
+    # 'django_extensions',
 ]
 
 MIDDLEWARE = [
